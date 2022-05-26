@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito', 'Trebuchet', sans-serif;
+}
+
+hr{
+  border-top:5px dotted #808080;
+  width:5%;
+  margin: 70px auto 70px auto;
+}
+.web{
+  font-style:italic;
+  text-decoration:underline;
+}
+
+h1{
+  font-family: 'Great Vibes', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height:2;
+}
+
+h2{
+  font-family: 'Tahoma', 'Trebuchet', sans-serif;
+  font-size: 25px;
+  color: #66BFBF;
+  font-weight: normal;
+  margin:0;
+}
+
+h3{
+  font-family: 'Tahoma', 'Trebuchet', sans-serif;
+  color: #11999E;
+  text-align:left;
+}
+
+.FirstName{
+  margin:0;
+  color: #66BFBF;
+}
+.First-Block{
+  background-color: #EAF6F6;
+  width:100%;
+  height:33%;
+  margin:0;
+  padding-top: 100px;
+  position: relative;
+}
+.Second-Block{
+
+}
+.Third-Block{
+  background-color: #85F4FF;
+}
+
+.skill-row{
+  margin: 50px auto 50px auto;
+  width: 50%;
+  text-align:left;
+}
+
+.SkillText{
+  line-height: 1.5;
+  width: 30%;
+  color: #40514E;
+  text-align: center;
+  display: inline-block;
+}
+
+.skimg{
+  width: 35%;
+  float:left;
+  margin-right:30px;
+}
+
+.skimg2{
+  width: 35%;
+  float:right;
+  margin-left:30px;
+}
+
+.myimg{
+  margin: 30px auto 30px auto;
+  width: 15%;
+  align: center;
+}
+
+.FinalText{
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.btn{
+   background-image: linear-gradient(to top, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%);
+   margin: 10px;
+   padding: 10px 20px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: inline-block;
+   width: 10%;
+ }
+
+#Cloud2{
+  position: absolute;
+  top:300px;
+  left:300px;
+
+}
+#Cloud1{
+  position: absolute;
+  top:50px;
+  right: 300px;
+}
