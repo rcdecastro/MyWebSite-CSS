@@ -8,6 +8,7 @@ hr{
   border-top:5px dotted #808080;
   width:5%;
   margin: 70px auto 70px auto;
+  clear: both;
 }
 .web{
   font-style:italic;
